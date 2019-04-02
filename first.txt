@@ -2,3 +2,4 @@ Gitの練習
 変更するぜ
 へへへっへ
 まだまだぁ
+ここにgit diff(gifferent差分)を追記
